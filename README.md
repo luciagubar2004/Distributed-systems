@@ -10,3 +10,4 @@ This project is a **peer-to-peer chat application** developed in Java, demonstra
 
 ## How it Works
 The system allows two users on different IP addresses to communicate by sending byte-encoded strings over specific ports (2000 and 3000). It includes a custom `KeyListener` that triggers message transmission upon pressing the **Enter** key.
+*Developed as part of the Telecommunication Technologies Engineering degree at the **University of Valladolid**.*
